@@ -1,0 +1,24 @@
+div{
+
+}
+.bigred{ font-size: 20px;
+    color: red;
+}
+.giantgreen{
+    font-size: 40px;
+    color: forestgreen;
+}
+<!--дальше данные будут приминятся только к 
+ только к спанам-->
+span.bigred{
+    font-size: 30px;
+    color: rgb(245, 10, 225);
+}
+.vlozhenost span{
+    font-size: 10px;
+    color: royalblue;
+
+}
+.block>p{
+    color: yellowgreen;
+}
